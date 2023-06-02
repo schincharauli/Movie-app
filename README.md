@@ -1,9 +1,21 @@
-# Movie-app
+# Movie App
 
-view full on -> https://youthful-knuth-9484cb.netlify.app/
+### Screenshot
 
-1 - on the page is shown popular movies by api.themoviedb.org;
+![](./assets/Screenshot%202023-06-02%20at%2009.08.01.png)
 
-2 - when we move cursor on the movie we can see and read the overview about movie;
+### Built with
 
-3 - using search we can find desirable movie between 10000 result;
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- Javascript
+- API
+
+Links
+
+Solution URL: https://github.com/schincharauli/Movie-app
+
+Live Site URL: https://youthful-knuth-9484cb.netlify.app/
